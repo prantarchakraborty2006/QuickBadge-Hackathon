@@ -2,6 +2,7 @@
   "name": "quickbadge-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://prantarchakraborty.github.io/QuickBadge-Hackathon",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
